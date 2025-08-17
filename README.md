@@ -1,12 +1,14 @@
-El presente repositorio contiene los archivos utilizados para estudiar el consumo de agua potable en la Región Metropolitana de Chile en el periodo 2012-2025 para la memoria:
+# Pronóstico de la Demanda de Agua Potable en la Región Metropolitana de Chile mediante Técnicas de Inteligencia Artificial
 
-PRONÓSTICO DE LA DEMANDA DE AGUA POTABLE EN LA REGIÓN METROPOLITANA DE CHILE MEDIANTE TÉCNICAS DE INTELIGENCIA ARTIFICIAL
+**Autores:** Ian Lagreze y Diego Lopez  
+**Universidad:** Universidad de Santiago de Chile  
+**Facultad:** Facultad de Ingeniería  
+**Departamento:** Departamento de Ingeniería Industrial
 
-Ian Lagreze y Diego Lopez
+---
 
-Universidad de Santiago de Chile
+Este repositorio contiene los archivos utilizados para el estudio del consumo de agua potable en la Región Metropolitana de Chile durante el periodo **2012-2025**.  
+El trabajo forma parte de la memoria titulada:
 
-Facultad de Ingeniería
-
-Departamento de Ingeniería Industrial.
+> **Pronóstico de la Demanda de Agua Potable en la Región Metropolitana de Chile mediante Técnicas de Inteligencia Artificial**
 
